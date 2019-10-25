@@ -131,6 +131,50 @@ public class Inspector {
 			}
 			System.out.println("\tModifier(s):" + Modifier.toString(cc.getModifiers()) + "\n");
 		}
+		//Methods
+		Method[] method = c.getDeclaredMethods();
+		System.out.println("Method:");
+		for(Method me : method) {
+			System.out.println("\tName:" + me.getName());
+			
+			Class[] ex = me.getExceptionTypes();
+			if(ex.length == 0) {
+				System.out.println("\tNo Exception");
+			}
+			for(Class exception : ex) {
+				System.out.println("\tException Type:" + exception.getName());
+			}
+			Class[] pTypes = me.getParameterTypes();
+			if(pTypes.length ==0){ 
+				System.out.println("\tNo Parameters");
+			}
+				
+			else {
+				for(Class pp : pTypes) {	
+					System.out.println("\tParameter:" + pp.getName());
+				}
+			}
+			System.out.println("\tReturn Type: " + me.getReturnType());
+			System.out.println("\tModifier(s): " + Modifier.toString(me.getModifiers()) + "\n");
+		}
+		
+		//Fields
+		System.out.println("\nFields: ");
+		Field[] classFields = c.getDeclaredFields();
+		
+		for(Field field : classFields) {
+			field.setAccessible(true);
+			System.out.println("\tName: " + field.getName());
+			
+			System.out.println("\tType: " + field.getType());
+			System.out.println("\tModifier(s): " + Modifier.toString(field.getModifiers()));
+			try {
+				System.out.println("\tField Value: " + field.get(obj) + "\n");
+			} catch (IllegalArgumentException | IllegalAccessException e1) {
+				e1.printStackTrace();
+			}
+			
+		}
 	
 		
 		
