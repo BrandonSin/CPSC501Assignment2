@@ -1,0 +1,29 @@
+commit 5e7dcd2961385ba3086b9ab4641b8a80dc565c7d
+Author: Brandon Sin <ancesz2000@yahoo.ca>
+Date:   Fri Oct 25 19:36:27 2019 -0600
+
+    added reports, readme, updated inspector
+
+commit 60d7f362d7a8f81c4daa8b4846f66fbfbaca799e
+Author: Brandon Sin <ancesz2000@yahoo.ca>
+Date:   Fri Oct 25 18:54:13 2019 -0600
+
+    Add test code and fix inspector
+
+commit db42154fdb859ca4fae9dc21e3bf1b2ba3ada3d0
+Author: Brandon Sin <ancesz2000@yahoo.ca>
+Date:   Fri Oct 25 06:43:01 2019 -0600
+
+    Added Fields and Methods
+
+commit 8df35b322d8f4ac5fb74738cd3f2ae4e220bbc10
+Author: Brandon Sin <ancesz2000@yahoo.ca>
+Date:   Fri Oct 25 06:42:11 2019 -0600
+
+    Added Class/Interface/Superclass/Constructor
+
+commit 8bf65b1c636072d97a3cfbe8fdb5822cc9fd8511
+Author: Brandon Sin <ancesz2000@yahoo.ca>
+Date:   Fri Oct 25 06:38:10 2019 -0600
+
+    Initial commit
