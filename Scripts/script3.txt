@@ -1,0 +1,103 @@
+======================================================
+Filename: script3.txt
+Running Test: ClassB
+Recursive: true
+Ordinary Class: ClassB
+
+Superclass Name(s): 
+	ClassC
+	ClassD
+
+Interfaces are/is :
+class ClassC
+	java.lang.Runnable
+class ClassD
+	InterfaceA
+null
+	InterfaceB
+
+Constructors:
+	Name: ClassB
+	Parameter Type: None
+	Modifier(s):public
+
+Method:
+	Name:run
+	No Exception
+	No Parameters
+	Return Type: void
+	Modifier(s): public
+
+	Name:toString
+	No Exception
+	No Parameters
+	Return Type: class java.lang.String
+	Modifier(s): public
+
+	Name:func3
+	No Exception
+	Parameter:int
+	Return Type: void
+	Modifier(s): public
+
+
+Fields: 
+	Name: val
+	Type: class ClassA
+	Modifier(s): private
+	Field Value: ClassA
+
+	Name: val2
+	Type: class ClassA
+	Modifier(s): private
+	Field Value: ClassA
+
+	Name: val3
+	Type: class ClassA
+	Modifier(s): private
+	Field Value: null
+
+	Name: val2
+	Type: class ClassA
+	Modifier(s): private
+	Field Value: ClassA
+
+	Name: val3
+	Type: class ClassA
+	Modifier(s): private
+	Field Value: ClassA
+
+	Name: val4
+	Type: class ClassA
+	Modifier(s): private
+	Field Value: ClassA
+
+	Name: val
+	Type: class ClassA
+	Modifier(s): private
+	Field Value: ClassA
+
+	Name: val2
+	Type: class ClassA
+	Modifier(s): private static
+	Field Value: null
+
+	Name: val3
+	Type: int
+	Modifier(s): private
+	Field Value: 34
+
+	Name: vallarray
+	Type: class [LClassA;
+	Modifier(s): private
+	Field Value: null
+	Field Value: null
+	Field Value: null
+	Field Value: null
+	Field Value: null
+	Field Value: null
+	Field Value: null
+	Field Value: null
+	Field Value: null
+	Field Value: null
+======================================================

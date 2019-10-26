@@ -1,0 +1,20 @@
+======================================================
+Filename: script6.txt
+Running Test: [LClassB;@3830f1c0
+Recursive: true
+Array Class: class ClassB
+
+Superclass Name(s): 
+	does not have a superclass.
+
+Interfaces are/is :
+class java.lang.Object
+	java.lang.Cloneable
+class java.lang.Object
+	java.io.Serializable
+
+Constructors:
+Method:
+
+Fields: 
+======================================================

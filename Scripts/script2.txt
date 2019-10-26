@@ -1,0 +1,73 @@
+======================================================
+Filename: script2.txt
+Running Test: ClassA
+Recursive: true
+Ordinary Class: ClassA
+
+Superclass Name(s): 
+	does not have a superclass.
+
+Interfaces are/is :
+class java.lang.Object
+	java.io.Serializable
+class java.lang.Object
+	java.lang.Runnable
+
+Constructors:
+	Name: ClassA
+	Parameter Type: None
+	Modifier(s):public
+
+	Name: ClassA
+	Parameter Type: int
+	Modifier(s):public
+
+Method:
+	Name:run
+	No Exception
+	No Parameters
+	Return Type: void
+	Modifier(s): public
+
+	Name:toString
+	No Exception
+	No Parameters
+	Return Type: class java.lang.String
+	Modifier(s): public
+
+	Name:setVal
+	Exception Type:java.lang.Exception
+	Parameter:int
+	Return Type: void
+	Modifier(s): public
+
+	Name:getVal
+	No Exception
+	No Parameters
+	Return Type: int
+	Modifier(s): public
+
+	Name:printSomething
+	No Exception
+	No Parameters
+	Return Type: void
+	Modifier(s): private
+
+
+Fields: 
+	Name: val
+	Type: int
+	Modifier(s): private
+	Field Value: 12
+
+	Name: val2
+	Type: double
+	Modifier(s): private
+	Field Value: 0.2
+
+	Name: val3
+	Type: boolean
+	Modifier(s): private
+	Field Value: true
+
+======================================================

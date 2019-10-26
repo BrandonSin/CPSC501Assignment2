@@ -1,0 +1,64 @@
+======================================================
+Filename: test4.txt
+Running Test: ClassB
+Recursive: false
+Ordinary Class: ClassB
+
+Superclass Name(s): 
+	ClassC
+	ClassD
+0
+0
+0
+0
+
+Interfaces are/is :
+	java.lang.Runnable
+
+InterfaceA
+
+InterfaceB
+
+
+Constructors:
+	Name: ClassB
+	Parameter Type: None
+	Modifier(s):public
+
+Method:
+	Name:run
+	No Exception
+	No Parameters
+	Return Type: void
+	Modifier(s): public
+
+	Name:toString
+	No Exception
+	No Parameters
+	Return Type: class java.lang.String
+	Modifier(s): public
+
+	Name:func3
+	No Exception
+	Parameter:int
+	Return Type: void
+	Modifier(s): public
+
+
+Fields: 
+	Name: val
+	Type: class ClassA
+	Modifier(s): private
+	Field Value: ClassA
+
+	Name: val2
+	Type: class ClassA
+	Modifier(s): private
+	Field Value: ClassA
+
+	Name: val3
+	Type: class ClassA
+	Modifier(s): private
+	Field Value: null
+
+======================================================

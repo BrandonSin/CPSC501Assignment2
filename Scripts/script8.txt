@@ -1,0 +1,655 @@
+======================================================
+Filename: script8.txt
+Running Test: Test String
+Recursive: true
+Ordinary Class: java.lang.String
+
+Superclass Name(s): 
+	does not have a superclass.
+
+Interfaces are/is :
+class java.lang.Object
+	java.io.Serializable
+class java.lang.Object
+	java.lang.Comparable
+class java.lang.Object
+	java.lang.CharSequence
+
+Constructors:
+	Name: java.lang.String
+	Parameter Type: [B
+	Parameter Type: int
+	Parameter Type: int
+	Modifier(s):public
+
+	Name: java.lang.String
+	Parameter Type: [B
+	Parameter Type: java.nio.charset.Charset
+	Modifier(s):public
+
+	Name: java.lang.String
+	Parameter Type: [B
+	Parameter Type: java.lang.String
+	Modifier(s):public
+
+	Name: java.lang.String
+	Parameter Type: [B
+	Parameter Type: int
+	Parameter Type: int
+	Parameter Type: java.nio.charset.Charset
+	Modifier(s):public
+
+	Name: java.lang.String
+	Parameter Type: [B
+	Parameter Type: int
+	Parameter Type: int
+	Parameter Type: java.lang.String
+	Modifier(s):public
+
+	Name: java.lang.String
+	Parameter Type: java.lang.StringBuilder
+	Modifier(s):public
+
+	Name: java.lang.String
+	Parameter Type: java.lang.StringBuffer
+	Modifier(s):public
+
+	Name: java.lang.String
+	Parameter Type: [B
+	Modifier(s):public
+
+	Name: java.lang.String
+	Parameter Type: [I
+	Parameter Type: int
+	Parameter Type: int
+	Modifier(s):public
+
+	Name: java.lang.String
+	Parameter Type: None
+	Modifier(s):public
+
+	Name: java.lang.String
+	Parameter Type: [C
+	Modifier(s):public
+
+	Name: java.lang.String
+	Parameter Type: java.lang.String
+	Modifier(s):public
+
+	Name: java.lang.String
+	Parameter Type: [C
+	Parameter Type: int
+	Parameter Type: int
+	Modifier(s):public
+
+	Name: java.lang.String
+	Parameter Type: [B
+	Parameter Type: int
+	Modifier(s):public
+
+	Name: java.lang.String
+	Parameter Type: [B
+	Parameter Type: int
+	Parameter Type: int
+	Parameter Type: int
+	Modifier(s):public
+
+Method:
+	Name:equals
+	No Exception
+	Parameter:java.lang.Object
+	Return Type: boolean
+	Modifier(s): public
+
+	Name:toString
+	No Exception
+	No Parameters
+	Return Type: class java.lang.String
+	Modifier(s): public
+
+	Name:hashCode
+	No Exception
+	No Parameters
+	Return Type: int
+	Modifier(s): public
+
+	Name:compareTo
+	No Exception
+	Parameter:java.lang.String
+	Return Type: int
+	Modifier(s): public
+
+	Name:compareTo
+	No Exception
+	Parameter:java.lang.Object
+	Return Type: int
+	Modifier(s): public volatile
+
+	Name:indexOf
+	No Exception
+	Parameter:java.lang.String
+	Parameter:int
+	Return Type: int
+	Modifier(s): public
+
+	Name:indexOf
+	No Exception
+	Parameter:java.lang.String
+	Return Type: int
+	Modifier(s): public
+
+	Name:indexOf
+	No Exception
+	Parameter:int
+	Parameter:int
+	Return Type: int
+	Modifier(s): public
+
+	Name:indexOf
+	No Exception
+	Parameter:int
+	Return Type: int
+	Modifier(s): public
+
+	Name:indexOf
+	No Exception
+	Parameter:[C
+	Parameter:int
+	Parameter:int
+	Parameter:[C
+	Parameter:int
+	Parameter:int
+	Parameter:int
+	Return Type: int
+	Modifier(s): static
+
+	Name:indexOf
+	No Exception
+	Parameter:[C
+	Parameter:int
+	Parameter:int
+	Parameter:java.lang.String
+	Parameter:int
+	Return Type: int
+	Modifier(s): static
+
+	Name:valueOf
+	No Exception
+	Parameter:int
+	Return Type: class java.lang.String
+	Modifier(s): public static
+
+	Name:valueOf
+	No Exception
+	Parameter:long
+	Return Type: class java.lang.String
+	Modifier(s): public static
+
+	Name:valueOf
+	No Exception
+	Parameter:float
+	Return Type: class java.lang.String
+	Modifier(s): public static
+
+	Name:valueOf
+	No Exception
+	Parameter:boolean
+	Return Type: class java.lang.String
+	Modifier(s): public static
+
+	Name:valueOf
+	No Exception
+	Parameter:[C
+	Return Type: class java.lang.String
+	Modifier(s): public static
+
+	Name:valueOf
+	No Exception
+	Parameter:[C
+	Parameter:int
+	Parameter:int
+	Return Type: class java.lang.String
+	Modifier(s): public static
+
+	Name:valueOf
+	No Exception
+	Parameter:java.lang.Object
+	Return Type: class java.lang.String
+	Modifier(s): public static
+
+	Name:valueOf
+	No Exception
+	Parameter:char
+	Return Type: class java.lang.String
+	Modifier(s): public static
+
+	Name:valueOf
+	No Exception
+	Parameter:double
+	Return Type: class java.lang.String
+	Modifier(s): public static
+
+	Name:charAt
+	No Exception
+	Parameter:int
+	Return Type: char
+	Modifier(s): public
+
+	Name:checkBounds
+	No Exception
+	Parameter:[B
+	Parameter:int
+	Parameter:int
+	Return Type: void
+	Modifier(s): private static
+
+	Name:codePointAt
+	No Exception
+	Parameter:int
+	Return Type: int
+	Modifier(s): public
+
+	Name:codePointBefore
+	No Exception
+	Parameter:int
+	Return Type: int
+	Modifier(s): public
+
+	Name:codePointCount
+	No Exception
+	Parameter:int
+	Parameter:int
+	Return Type: int
+	Modifier(s): public
+
+	Name:compareToIgnoreCase
+	No Exception
+	Parameter:java.lang.String
+	Return Type: int
+	Modifier(s): public
+
+	Name:concat
+	No Exception
+	Parameter:java.lang.String
+	Return Type: class java.lang.String
+	Modifier(s): public
+
+	Name:contains
+	No Exception
+	Parameter:java.lang.CharSequence
+	Return Type: boolean
+	Modifier(s): public
+
+	Name:contentEquals
+	No Exception
+	Parameter:java.lang.CharSequence
+	Return Type: boolean
+	Modifier(s): public
+
+	Name:contentEquals
+	No Exception
+	Parameter:java.lang.StringBuffer
+	Return Type: boolean
+	Modifier(s): public
+
+	Name:copyValueOf
+	No Exception
+	Parameter:[C
+	Return Type: class java.lang.String
+	Modifier(s): public static
+
+	Name:copyValueOf
+	No Exception
+	Parameter:[C
+	Parameter:int
+	Parameter:int
+	Return Type: class java.lang.String
+	Modifier(s): public static
+
+	Name:endsWith
+	No Exception
+	Parameter:java.lang.String
+	Return Type: boolean
+	Modifier(s): public
+
+	Name:equalsIgnoreCase
+	No Exception
+	Parameter:java.lang.String
+	Return Type: boolean
+	Modifier(s): public
+
+	Name:format
+	No Exception
+	Parameter:java.util.Locale
+	Parameter:java.lang.String
+	Parameter:[Ljava.lang.Object;
+	Return Type: class java.lang.String
+	Modifier(s): public static transient
+
+	Name:format
+	No Exception
+	Parameter:java.lang.String
+	Parameter:[Ljava.lang.Object;
+	Return Type: class java.lang.String
+	Modifier(s): public static transient
+
+	Name:getBytes
+	No Exception
+	Parameter:int
+	Parameter:int
+	Parameter:[B
+	Parameter:int
+	Return Type: void
+	Modifier(s): public
+
+	Name:getBytes
+	No Exception
+	Parameter:java.nio.charset.Charset
+	Return Type: class [B
+	Modifier(s): public
+
+	Name:getBytes
+	Exception Type:java.io.UnsupportedEncodingException
+	Parameter:java.lang.String
+	Return Type: class [B
+	Modifier(s): public
+
+	Name:getBytes
+	No Exception
+	No Parameters
+	Return Type: class [B
+	Modifier(s): public
+
+	Name:getChars
+	No Exception
+	Parameter:int
+	Parameter:int
+	Parameter:[C
+	Parameter:int
+	Return Type: void
+	Modifier(s): public
+
+	Name:getChars
+	No Exception
+	Parameter:[C
+	Parameter:int
+	Return Type: void
+	Modifier(s): 
+
+	Name:indexOfSupplementary
+	No Exception
+	Parameter:int
+	Parameter:int
+	Return Type: int
+	Modifier(s): private
+
+	Name:intern
+	No Exception
+	No Parameters
+	Return Type: class java.lang.String
+	Modifier(s): public native
+
+	Name:isEmpty
+	No Exception
+	No Parameters
+	Return Type: boolean
+	Modifier(s): public
+
+	Name:join
+	No Exception
+	Parameter:java.lang.CharSequence
+	Parameter:[Ljava.lang.CharSequence;
+	Return Type: class java.lang.String
+	Modifier(s): public static transient
+
+	Name:join
+	No Exception
+	Parameter:java.lang.CharSequence
+	Parameter:java.lang.Iterable
+	Return Type: class java.lang.String
+	Modifier(s): public static
+
+	Name:lastIndexOf
+	No Exception
+	Parameter:int
+	Return Type: int
+	Modifier(s): public
+
+	Name:lastIndexOf
+	No Exception
+	Parameter:java.lang.String
+	Return Type: int
+	Modifier(s): public
+
+	Name:lastIndexOf
+	No Exception
+	Parameter:[C
+	Parameter:int
+	Parameter:int
+	Parameter:java.lang.String
+	Parameter:int
+	Return Type: int
+	Modifier(s): static
+
+	Name:lastIndexOf
+	No Exception
+	Parameter:java.lang.String
+	Parameter:int
+	Return Type: int
+	Modifier(s): public
+
+	Name:lastIndexOf
+	No Exception
+	Parameter:int
+	Parameter:int
+	Return Type: int
+	Modifier(s): public
+
+	Name:lastIndexOf
+	No Exception
+	Parameter:[C
+	Parameter:int
+	Parameter:int
+	Parameter:[C
+	Parameter:int
+	Parameter:int
+	Parameter:int
+	Return Type: int
+	Modifier(s): static
+
+	Name:lastIndexOfSupplementary
+	No Exception
+	Parameter:int
+	Parameter:int
+	Return Type: int
+	Modifier(s): private
+
+	Name:length
+	No Exception
+	No Parameters
+	Return Type: int
+	Modifier(s): public
+
+	Name:matches
+	No Exception
+	Parameter:java.lang.String
+	Return Type: boolean
+	Modifier(s): public
+
+	Name:nonSyncContentEquals
+	No Exception
+	Parameter:java.lang.AbstractStringBuilder
+	Return Type: boolean
+	Modifier(s): private
+
+	Name:offsetByCodePoints
+	No Exception
+	Parameter:int
+	Parameter:int
+	Return Type: int
+	Modifier(s): public
+
+	Name:regionMatches
+	No Exception
+	Parameter:int
+	Parameter:java.lang.String
+	Parameter:int
+	Parameter:int
+	Return Type: boolean
+	Modifier(s): public
+
+	Name:regionMatches
+	No Exception
+	Parameter:boolean
+	Parameter:int
+	Parameter:java.lang.String
+	Parameter:int
+	Parameter:int
+	Return Type: boolean
+	Modifier(s): public
+
+	Name:replace
+	No Exception
+	Parameter:char
+	Parameter:char
+	Return Type: class java.lang.String
+	Modifier(s): public
+
+	Name:replace
+	No Exception
+	Parameter:java.lang.CharSequence
+	Parameter:java.lang.CharSequence
+	Return Type: class java.lang.String
+	Modifier(s): public
+
+	Name:replaceAll
+	No Exception
+	Parameter:java.lang.String
+	Parameter:java.lang.String
+	Return Type: class java.lang.String
+	Modifier(s): public
+
+	Name:replaceFirst
+	No Exception
+	Parameter:java.lang.String
+	Parameter:java.lang.String
+	Return Type: class java.lang.String
+	Modifier(s): public
+
+	Name:split
+	No Exception
+	Parameter:java.lang.String
+	Return Type: class [Ljava.lang.String;
+	Modifier(s): public
+
+	Name:split
+	No Exception
+	Parameter:java.lang.String
+	Parameter:int
+	Return Type: class [Ljava.lang.String;
+	Modifier(s): public
+
+	Name:startsWith
+	No Exception
+	Parameter:java.lang.String
+	Parameter:int
+	Return Type: boolean
+	Modifier(s): public
+
+	Name:startsWith
+	No Exception
+	Parameter:java.lang.String
+	Return Type: boolean
+	Modifier(s): public
+
+	Name:subSequence
+	No Exception
+	Parameter:int
+	Parameter:int
+	Return Type: interface java.lang.CharSequence
+	Modifier(s): public
+
+	Name:substring
+	No Exception
+	Parameter:int
+	Return Type: class java.lang.String
+	Modifier(s): public
+
+	Name:substring
+	No Exception
+	Parameter:int
+	Parameter:int
+	Return Type: class java.lang.String
+	Modifier(s): public
+
+	Name:toCharArray
+	No Exception
+	No Parameters
+	Return Type: class [C
+	Modifier(s): public
+
+	Name:toLowerCase
+	No Exception
+	Parameter:java.util.Locale
+	Return Type: class java.lang.String
+	Modifier(s): public
+
+	Name:toLowerCase
+	No Exception
+	No Parameters
+	Return Type: class java.lang.String
+	Modifier(s): public
+
+	Name:toUpperCase
+	No Exception
+	No Parameters
+	Return Type: class java.lang.String
+	Modifier(s): public
+
+	Name:toUpperCase
+	No Exception
+	Parameter:java.util.Locale
+	Return Type: class java.lang.String
+	Modifier(s): public
+
+	Name:trim
+	No Exception
+	No Parameters
+	Return Type: class java.lang.String
+	Modifier(s): public
+
+
+Fields: 
+	Name: value
+	Type: class [C
+	Modifier(s): private final
+	Field Value: T
+	Field Value: e
+	Field Value: s
+	Field Value: t
+	Field Value:  
+	Field Value: S
+	Field Value: t
+	Field Value: r
+	Field Value: i
+	Field Value: n
+	Field Value: g
+	Name: hash
+	Type: int
+	Modifier(s): private
+	Field Value: 0
+
+	Name: serialVersionUID
+	Type: long
+	Modifier(s): private static final
+	Field Value: -6849794470754667710
+
+	Name: serialPersistentFields
+	Type: class [Ljava.io.ObjectStreamField;
+	Modifier(s): private static final
+	Name: CASE_INSENSITIVE_ORDER
+	Type: interface java.util.Comparator
+	Modifier(s): public static final
+	Field Value: java.lang.String$CaseInsensitiveComparator@69222c14
+
+======================================================

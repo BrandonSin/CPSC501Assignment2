@@ -1,0 +1,57 @@
+======================================================
+Filename: test5.txt
+Running Test: ClassD
+Recursive: true
+Ordinary Class: ClassD
+
+Superclass Name(s): 
+	does not have a superclass.
+0
+
+There are no Interfaces.
+
+Constructors:
+	Name: ClassD
+	Parameter Type: None
+	Modifier(s):public
+
+	Name: ClassD
+	Parameter Type: int
+	Modifier(s):public
+
+Method:
+	Name:toString
+	No Exception
+	No Parameters
+	Return Type: class java.lang.String
+	Modifier(s): public
+
+	Name:getVal3
+	No Exception
+	No Parameters
+	Return Type: int
+	Modifier(s): public
+
+
+Fields: 
+	Name: val
+	Type: class ClassA
+	Modifier(s): private
+	Field Value: ClassA
+
+	Name: val2
+	Type: class ClassA
+	Modifier(s): private static
+	Field Value: null
+
+	Name: val3
+	Type: int
+	Modifier(s): private
+	Field Value: 34
+
+	Name: vallarray
+	Type: class [LClassA;
+	Modifier(s): private
+	Field Value: [LClassA;@42a57993
+
+======================================================

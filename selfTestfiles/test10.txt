@@ -1,0 +1,421 @@
+======================================================
+Filename: test10.txt
+Running Test: 5
+Recursive: false
+Ordinary Class: java.lang.Integer
+
+Superclass Name(s): 
+	java.lang.Number
+0
+0
+0
+
+Interfaces are/is :
+	java.lang.Comparable
+
+java.io.Serializable
+
+
+Constructors:
+	Name: java.lang.Integer
+	Parameter Type: int
+	Modifier(s):public
+
+	Name: java.lang.Integer
+	Parameter Type: java.lang.String
+	Modifier(s):public
+
+Method:
+	Name:numberOfLeadingZeros
+	No Exception
+	Parameter:int
+	Return Type: int
+	Modifier(s): public static
+
+	Name:numberOfTrailingZeros
+	No Exception
+	Parameter:int
+	Return Type: int
+	Modifier(s): public static
+
+	Name:bitCount
+	No Exception
+	Parameter:int
+	Return Type: int
+	Modifier(s): public static
+
+	Name:equals
+	No Exception
+	Parameter:java.lang.Object
+	Return Type: boolean
+	Modifier(s): public
+
+	Name:toString
+	No Exception
+	Parameter:int
+	Parameter:int
+	Return Type: class java.lang.String
+	Modifier(s): public static
+
+	Name:toString
+	No Exception
+	No Parameters
+	Return Type: class java.lang.String
+	Modifier(s): public
+
+	Name:toString
+	No Exception
+	Parameter:int
+	Return Type: class java.lang.String
+	Modifier(s): public static
+
+	Name:hashCode
+	No Exception
+	Parameter:int
+	Return Type: int
+	Modifier(s): public static
+
+	Name:hashCode
+	No Exception
+	No Parameters
+	Return Type: int
+	Modifier(s): public
+
+	Name:min
+	No Exception
+	Parameter:int
+	Parameter:int
+	Return Type: int
+	Modifier(s): public static
+
+	Name:max
+	No Exception
+	Parameter:int
+	Parameter:int
+	Return Type: int
+	Modifier(s): public static
+
+	Name:reverseBytes
+	No Exception
+	Parameter:int
+	Return Type: int
+	Modifier(s): public static
+
+	Name:compareTo
+	No Exception
+	Parameter:java.lang.Integer
+	Return Type: int
+	Modifier(s): public
+
+	Name:compareTo
+	No Exception
+	Parameter:java.lang.Object
+	Return Type: int
+	Modifier(s): public volatile
+
+	Name:byteValue
+	No Exception
+	No Parameters
+	Return Type: byte
+	Modifier(s): public
+
+	Name:shortValue
+	No Exception
+	No Parameters
+	Return Type: short
+	Modifier(s): public
+
+	Name:intValue
+	No Exception
+	No Parameters
+	Return Type: int
+	Modifier(s): public
+
+	Name:longValue
+	No Exception
+	No Parameters
+	Return Type: long
+	Modifier(s): public
+
+	Name:floatValue
+	No Exception
+	No Parameters
+	Return Type: float
+	Modifier(s): public
+
+	Name:doubleValue
+	No Exception
+	No Parameters
+	Return Type: double
+	Modifier(s): public
+
+	Name:valueOf
+	Exception Type:java.lang.NumberFormatException
+	Parameter:java.lang.String
+	Parameter:int
+	Return Type: class java.lang.Integer
+	Modifier(s): public static
+
+	Name:valueOf
+	No Exception
+	Parameter:int
+	Return Type: class java.lang.Integer
+	Modifier(s): public static
+
+	Name:valueOf
+	Exception Type:java.lang.NumberFormatException
+	Parameter:java.lang.String
+	Return Type: class java.lang.Integer
+	Modifier(s): public static
+
+	Name:toHexString
+	No Exception
+	Parameter:int
+	Return Type: class java.lang.String
+	Modifier(s): public static
+
+	Name:compare
+	No Exception
+	Parameter:int
+	Parameter:int
+	Return Type: int
+	Modifier(s): public static
+
+	Name:decode
+	Exception Type:java.lang.NumberFormatException
+	Parameter:java.lang.String
+	Return Type: class java.lang.Integer
+	Modifier(s): public static
+
+	Name:getChars
+	No Exception
+	Parameter:int
+	Parameter:int
+	Parameter:[C
+	Return Type: void
+	Modifier(s): static
+
+	Name:reverse
+	No Exception
+	Parameter:int
+	Return Type: int
+	Modifier(s): public static
+
+	Name:stringSize
+	No Exception
+	Parameter:int
+	Return Type: int
+	Modifier(s): static
+
+	Name:sum
+	No Exception
+	Parameter:int
+	Parameter:int
+	Return Type: int
+	Modifier(s): public static
+
+	Name:parseInt
+	Exception Type:java.lang.NumberFormatException
+	Parameter:java.lang.String
+	Return Type: int
+	Modifier(s): public static
+
+	Name:parseInt
+	Exception Type:java.lang.NumberFormatException
+	Parameter:java.lang.String
+	Parameter:int
+	Return Type: int
+	Modifier(s): public static
+
+	Name:toUnsignedLong
+	No Exception
+	Parameter:int
+	Return Type: long
+	Modifier(s): public static
+
+	Name:compareUnsigned
+	No Exception
+	Parameter:int
+	Parameter:int
+	Return Type: int
+	Modifier(s): public static
+
+	Name:divideUnsigned
+	No Exception
+	Parameter:int
+	Parameter:int
+	Return Type: int
+	Modifier(s): public static
+
+	Name:formatUnsignedInt
+	No Exception
+	Parameter:int
+	Parameter:int
+	Parameter:[C
+	Parameter:int
+	Parameter:int
+	Return Type: int
+	Modifier(s): static
+
+	Name:getInteger
+	No Exception
+	Parameter:java.lang.String
+	Parameter:java.lang.Integer
+	Return Type: class java.lang.Integer
+	Modifier(s): public static
+
+	Name:getInteger
+	No Exception
+	Parameter:java.lang.String
+	Parameter:int
+	Return Type: class java.lang.Integer
+	Modifier(s): public static
+
+	Name:getInteger
+	No Exception
+	Parameter:java.lang.String
+	Return Type: class java.lang.Integer
+	Modifier(s): public static
+
+	Name:highestOneBit
+	No Exception
+	Parameter:int
+	Return Type: int
+	Modifier(s): public static
+
+	Name:lowestOneBit
+	No Exception
+	Parameter:int
+	Return Type: int
+	Modifier(s): public static
+
+	Name:parseUnsignedInt
+	Exception Type:java.lang.NumberFormatException
+	Parameter:java.lang.String
+	Return Type: int
+	Modifier(s): public static
+
+	Name:parseUnsignedInt
+	Exception Type:java.lang.NumberFormatException
+	Parameter:java.lang.String
+	Parameter:int
+	Return Type: int
+	Modifier(s): public static
+
+	Name:remainderUnsigned
+	No Exception
+	Parameter:int
+	Parameter:int
+	Return Type: int
+	Modifier(s): public static
+
+	Name:rotateLeft
+	No Exception
+	Parameter:int
+	Parameter:int
+	Return Type: int
+	Modifier(s): public static
+
+	Name:rotateRight
+	No Exception
+	Parameter:int
+	Parameter:int
+	Return Type: int
+	Modifier(s): public static
+
+	Name:signum
+	No Exception
+	Parameter:int
+	Return Type: int
+	Modifier(s): public static
+
+	Name:toBinaryString
+	No Exception
+	Parameter:int
+	Return Type: class java.lang.String
+	Modifier(s): public static
+
+	Name:toOctalString
+	No Exception
+	Parameter:int
+	Return Type: class java.lang.String
+	Modifier(s): public static
+
+	Name:toUnsignedString
+	No Exception
+	Parameter:int
+	Return Type: class java.lang.String
+	Modifier(s): public static
+
+	Name:toUnsignedString
+	No Exception
+	Parameter:int
+	Parameter:int
+	Return Type: class java.lang.String
+	Modifier(s): public static
+
+	Name:toUnsignedString0
+	No Exception
+	Parameter:int
+	Parameter:int
+	Return Type: class java.lang.String
+	Modifier(s): private static
+
+
+Fields: 
+	Name: MIN_VALUE
+	Type: int
+	Modifier(s): public static final
+	Field Value: -2147483648
+
+	Name: MAX_VALUE
+	Type: int
+	Modifier(s): public static final
+	Field Value: 2147483647
+
+	Name: TYPE
+	Type: class java.lang.Class
+	Modifier(s): public static final
+	Field Value: int
+
+	Name: digits
+	Type: class [C
+	Modifier(s): static final
+	Field Value: [C@74a14482
+
+	Name: DigitTens
+	Type: class [C
+	Modifier(s): static final
+	Field Value: [C@1540e19d
+
+	Name: DigitOnes
+	Type: class [C
+	Modifier(s): static final
+	Field Value: [C@677327b6
+
+	Name: sizeTable
+	Type: class [I
+	Modifier(s): static final
+	Field Value: [I@14ae5a5
+
+	Name: value
+	Type: int
+	Modifier(s): private final
+	Field Value: 5
+
+	Name: SIZE
+	Type: int
+	Modifier(s): public static final
+	Field Value: 32
+
+	Name: BYTES
+	Type: int
+	Modifier(s): public static final
+	Field Value: 4
+
+	Name: serialVersionUID
+	Type: long
+	Modifier(s): private static final
+	Field Value: 1360826667806852920
+
+======================================================

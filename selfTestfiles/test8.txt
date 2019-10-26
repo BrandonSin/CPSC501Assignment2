@@ -1,0 +1,23 @@
+======================================================
+Filename: test8.txt
+Running Test: [LClassB;@4aa298b7
+Recursive: false
+Array Class: class ClassB
+
+Superclass Name(s): 
+	does not have a superclass.
+0
+0
+0
+
+Interfaces are/is :
+	java.lang.Cloneable
+
+java.io.Serializable
+
+
+Constructors:
+Method:
+
+Fields: 
+======================================================
